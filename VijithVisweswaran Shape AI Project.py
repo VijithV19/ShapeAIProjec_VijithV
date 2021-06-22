@@ -34,7 +34,3 @@ file.write("humidity :" + str(hmdt))
 file.write("\n")
 file.write("wind speed(KmpH) :" +str(wind_spd))
 file.close()
-
-git remote add_origin https://github.com/Yo2ruth/ShapeAIProjec_VijithV.git
-git branch -M main
-git push -u origin main
